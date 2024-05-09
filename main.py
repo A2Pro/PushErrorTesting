@@ -1,2 +1,1 @@
-print('Hello, world!')
-print("Yippee.")
+print("Fixed?")
